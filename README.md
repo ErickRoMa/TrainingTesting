@@ -1,1 +1,27 @@
-# TrainingTesting
+# Automation - Training 
+## Required
+  - [Install Eclipse GUI](https://www.eclipse.org/)
+  - Programming Topic
+    - Oriented Object Programming - Java
+        - [Oracle documentation](https://docs.oracle.com/javase/tutorial/java/concepts/)
+    - XPath
+        - [Microsoft](https://developer.mozilla.org/en-US/docs/Web/XPath)
+        - [W3School](https://www.w3schools.com/xml/xpath_intro.asp)          
+    - CSS
+        - [Microsoft](https://developer.mozilla.org/en-US/docs/Web/CSS)
+        - [W3School](https://www.w3schools.com/css/)
+  - Create Testing GMail / Yahoo account
+     - [Gmail](https://support.google.com/mail/answer/56256?hl=en)
+     - [Yahoo](https://login.yahoo.com/?.lang=es-MX&src=homepage&.done=https%3A%2F%2Fespanol.yahoo.com%2F%3Fp%3Dus&pspid=2142990676&activity=ybar-signin)
+  - Git Hub Account  
+    - [Create Account](https://github.com/)
+        - [Create Repository](https://docs.github.com/en/repositories)
+        - [Configure SSH](https://docs.github.com/en/authentication/connecting-to-github-with-ssh)
+    - [Git Commands](https://git-scm.com/docs)
+        - Clone 
+        - Pull
+        - Commit        
+        - Push
+  - [Git Client](https://git-scm.com/downloads/guis)
+    - [Windows](https://git-scm.com/download/gui/windows)
+    - [Linux](https://git-scm.com/download/gui/linux)

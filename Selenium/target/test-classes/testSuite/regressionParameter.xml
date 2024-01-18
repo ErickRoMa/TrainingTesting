@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="RegressionAutomatedQA" parallel="tests" thread-count="3">
+<parameter name="" value="" />
+  <test name="TC_01_CorrectLogin">
+  <parameter name="user" value="Admin"></parameter>
+  <parameter name="password" value="admin123"></parameter>
+    <classes>
+      <class name="test.login.TC_05_LoginParameter"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->
