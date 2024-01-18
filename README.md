@@ -25,3 +25,8 @@
   - [Git Client](https://git-scm.com/downloads/guis)
     - [Windows](https://git-scm.com/download/gui/windows)
     - [Linux](https://git-scm.com/download/gui/linux)
+  
+  - [Selenium Web Driver](https://www.selenium.dev/documentation/webdriver/)
+      - [Download](https://www.selenium.dev/downloads/) - Java
+      - [Documentation](https://www.selenium.dev/documentation/)
+        - [Test Practices](https://www.selenium.dev/documentation/test_practices/)
