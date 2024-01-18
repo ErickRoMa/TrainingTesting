@@ -1,6 +1,14 @@
 # Automation - Training 
 ## Required
   - [Install Eclipse GUI](https://www.eclipse.org/)
+    - [JDK Download](https://www.oracle.com/java/technologies/downloads/)
+       - Windows
+       - Linux
+       - MacOS
+    - [JDK Configuration](https://docs.oracle.com/en/java/javase/21/install/overview-jdk-installation.html#GUID-8677A77F-231A-40F7-98B9-1FD0B48C346A)
+       - Windows
+       - Linux
+       - Mac OS
   - Programming Topic
     - Oriented Object Programming - Java
         - [Oracle documentation](https://docs.oracle.com/javase/tutorial/java/concepts/)
