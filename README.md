@@ -11,7 +11,11 @@
        - Mac OS
   - Programming Topic
     - Oriented Object Programming - Java
-        - [Oracle documentation](https://docs.oracle.com/javase/tutorial/java/concepts/)
+        - [Key Concept](https://docs.oracle.com/javase/tutorial/java/concepts/)
+        - [Language Basic](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
+        - [Classes / Object](https://docs.oracle.com/javase/tutorial/java/TOC.html)
+        - [Interfaces/Inheritance](https://docs.oracle.com/javase/tutorial/java/IandI/index.html)
+
     - XPath
         - [Microsoft](https://developer.mozilla.org/en-US/docs/Web/XPath)
         - [W3School](https://www.w3schools.com/xml/xpath_intro.asp)          
