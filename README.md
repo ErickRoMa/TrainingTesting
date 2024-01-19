@@ -1,5 +1,5 @@
 # Automation - Training 
-## Required
+  ## Required
   - [Install Eclipse GUI](https://www.eclipse.org/)
     - [JDK Download](https://www.oracle.com/java/technologies/downloads/)
        - Windows
@@ -10,7 +10,7 @@
        - Linux
        - Mac OS
   - Programming Topic
-    - Oriented Object Programming - Java
+    - Oriented Object Programming - [Oracle- Java](https://docs.oracle.com/javase/tutorial/java/TOC.html)
         - [Key Concept](https://docs.oracle.com/javase/tutorial/java/concepts/)
         - [Language Basic](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/index.html)
         - [Classes / Object](https://docs.oracle.com/javase/tutorial/java/TOC.html)
@@ -19,12 +19,15 @@
     - XPath
         - [Microsoft](https://developer.mozilla.org/en-US/docs/Web/XPath)
         - [W3School](https://www.w3schools.com/xml/xpath_intro.asp)          
+    
     - CSS
         - [Microsoft](https://developer.mozilla.org/en-US/docs/Web/CSS)
         - [W3School](https://www.w3schools.com/css/)
+  
   - Create Testing GMail / Yahoo account
      - [Gmail](https://support.google.com/mail/answer/56256?hl=en)
      - [Yahoo](https://login.yahoo.com/?.lang=es-MX&src=homepage&.done=https%3A%2F%2Fespanol.yahoo.com%2F%3Fp%3Dus&pspid=2142990676&activity=ybar-signin)
+
   - Git Hub Account  
     - [Create Account](https://github.com/)
         - [Create Repository](https://docs.github.com/en/repositories)
@@ -42,3 +45,4 @@
       - [Download](https://www.selenium.dev/downloads/) - Java
       - [Documentation](https://www.selenium.dev/documentation/)
         - [Test Practices](https://www.selenium.dev/documentation/test_practices/)
+      - [POM](https://www.selenium.dev/documentation/test_practices/encouraged/page_object_models/)
